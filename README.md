@@ -2,9 +2,7 @@
 
 Marketing Matters was a code refactoring project to improve the web application's appearance, accessibility, and functionality. 
 
-<div align="center">
-    <img src="./assets/css/images/MockUp.png"/>
-</div>
+![mock up of this photo]('./assets/images/MockUp.png')
 
 ## Description
 
